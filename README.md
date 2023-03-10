@@ -8,8 +8,8 @@
  * Copy "main.py" to the bucket created by the Cloud Composer.
  
  ## Airflow code:
+  Airflow code has tasks to create empty table and a dataset then delete them for the sake of demo.
  * Add project id.
  * Change tasks sequence as needed.
  * Change slots capacity amount.
- Airdlow code also adds tasks to create empty table and a dataset then delete them for the sake of demo.
  

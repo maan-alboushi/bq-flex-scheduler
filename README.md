@@ -1,4 +1,4 @@
-# bq-flex-scheduler
+# Shedule a reservation of BigQuery Flex slots:
  This code is an Airflow DAG that creates a BigQuery Flex commitment, reservation and assignment then query a simple table and finally deletes all slots.
  
  ## GCP infrastructure:
